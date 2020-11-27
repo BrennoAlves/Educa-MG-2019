@@ -1,2 +1,3 @@
 # Educa MG
-Um trabalho acadêmico em **andamento** que utiliza dados do Enem 2019, do índice FIRJAN e do IDEB para acompanhar o desempenho da educação dos municípios de MG.
+Uma análise com finalidade de testar técnicas e conceitos.  
+Nela utilizo dados do Enem 2019, do índice FIRJAN e GINI dos municípios de MG e analiso suas similaridades e disparidades.
